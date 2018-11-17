@@ -1,5 +1,5 @@
 # Papers
-In this repository, I put the summary of papers I read. It can be paper about molecular biology, or it can be about bioinformatics. For each paper, I will follow this outline:
+In this repository, I put the short takehome from the scientific papers I read. It can be paper about molecular biology, or it can be about bioinformatics. For each paper, I will follow this outline:
 1.	Header 
       - Title and source
       - The reason why I read this paper
